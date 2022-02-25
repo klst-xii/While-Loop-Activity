@@ -80,7 +80,7 @@ int main() {
 	do {
 		//User's choice
     	char uChoice; 
-    	//Compter's choice
+    	//Computer's choice
     	char cChoice;
     
     	uChoice = getUserOption();
